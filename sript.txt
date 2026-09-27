@@ -1,0 +1,1 @@
+python mosaic_engine.py --image "sail.jpg" --palette "palette.json" --width 90 --height 60 --no-dither
