@@ -1,0 +1,13 @@
+{
+  "B001": { "name": "Black", "rgb": [20, 20, 20] },
+  "W001": { "name": "White", "rgb": [245, 245, 245] },
+  "G001": { "name": "Light Gray", "rgb": [160, 165, 169] },
+  "G002": { "name": "Dark Gray", "rgb": [108, 110, 105] },
+  "T001": { "name": "Tan", "rgb": [228, 205, 158] },
+  "BR001": { "name": "Reddish Brown", "rgb": [120, 60, 30] },
+  "BR002": { "name": "Dark Brown", "rgb": [53, 33, 22] },
+  "P001": { "name": "Light Pink", "rgb": [240, 170, 185] },
+  "O001": { "name": "Orange", "rgb": [217, 125, 30] },
+  "Y001": { "name": "Yellow", "rgb": [242, 205, 55] },
+  "R001": { "name": "Red", "rgb": [180, 30, 30] }
+}

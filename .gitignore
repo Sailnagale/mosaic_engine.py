@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+*.log
+
+# Virtual environment
+venv/
+.env/
+.venv/
+
+# IDE and editor settings
+.vscode/
+.idea/
+.DS_Store
+
+# Build and distribution
+build/
+dist/
+*.spec
+
+# Image outputs and previews
+mosaic_preview.png
+sample.jpg
+
+# JSON data files (optional, if generated dynamically)
+mosaic_data.json
+
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
