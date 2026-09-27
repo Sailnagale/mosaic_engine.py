@@ -1,13 +1,154 @@
 {
-  "B001": { "name": "Black", "rgb": [20, 20, 20] },
-  "W001": { "name": "White", "rgb": [245, 245, 245] },
-  "G001": { "name": "Light Gray", "rgb": [160, 165, 169] },
-  "G002": { "name": "Dark Gray", "rgb": [108, 110, 105] },
-  "T001": { "name": "Tan", "rgb": [228, 205, 158] },
-  "BR001": { "name": "Reddish Brown", "rgb": [120, 60, 30] },
-  "BR002": { "name": "Dark Brown", "rgb": [53, 33, 22] },
-  "P001": { "name": "Light Pink", "rgb": [240, 170, 185] },
-  "O001": { "name": "Orange", "rgb": [217, 125, 30] },
-  "Y001": { "name": "Yellow", "rgb": [242, 205, 55] },
-  "R001": { "name": "Red", "rgb": [180, 30, 30] }
+  "B001": {
+    "name": "Black",
+    "rgb": [20, 20, 20]
+  },
+  "B002": {
+    "name": "Near Black",
+    "rgb": [40, 38, 36]
+  },
+
+  "G001": {
+    "name": "Dark Gray",
+    "rgb": [75, 78, 76]
+  },
+  "G002": {
+    "name": "Medium Gray",
+    "rgb": [115, 118, 116]
+  },
+  "G003": {
+    "name": "Light Gray",
+    "rgb": [160, 165, 169]
+  },
+  "G004": {
+    "name": "Cool Light Gray",
+    "rgb": [195, 198, 198]
+  },
+
+  "W001": {
+    "name": "White",
+    "rgb": [245, 245, 245]
+  },
+  "W002": {
+    "name": "Warm White",
+    "rgb": [238, 232, 222]
+  },
+  "W003": {
+    "name": "Cream",
+    "rgb": [232, 221, 201]
+  },
+
+  "T001": {
+    "name": "Tan",
+    "rgb": [228, 205, 158]
+  },
+  "T002": {
+    "name": "Light Tan",
+    "rgb": [215, 185, 135]
+  },
+  "T003": {
+    "name": "Sand",
+    "rgb": [198, 170, 125]
+  },
+
+  "BR001": {
+    "name": "Light Brown",
+    "rgb": [155, 105, 70]
+  },
+  "BR002": {
+    "name": "Reddish Brown",
+    "rgb": [120, 60, 30]
+  },
+  "BR003": {
+    "name": "Medium Brown",
+    "rgb": [95, 58, 38]
+  },
+  "BR004": {
+    "name": "Dark Brown",
+    "rgb": [53, 33, 22]
+  },
+
+  "SK001": {
+    "name": "Light Skin",
+    "rgb": [238, 190, 175]
+  },
+  "SK002": {
+    "name": "Peach",
+    "rgb": [222, 155, 140]
+  },
+  "SK003": {
+    "name": "Medium Skin",
+    "rgb": [190, 125, 105]
+  },
+  "SK004": {
+    "name": "Deep Skin",
+    "rgb": [135, 82, 65]
+  },
+
+  "P001": {
+    "name": "Light Pink",
+    "rgb": [240, 170, 185]
+  },
+  "P002": {
+    "name": "Pink",
+    "rgb": [215, 105, 130]
+  },
+  "P003": {
+    "name": "Dark Pink",
+    "rgb": [170, 65, 90]
+  },
+
+  "R001": {
+    "name": "Red",
+    "rgb": [180, 30, 30]
+  },
+  "R002": {
+    "name": "Dark Red",
+    "rgb": [125, 25, 28]
+  },
+
+  "O001": {
+    "name": "Orange",
+    "rgb": [217, 125, 30]
+  },
+  "O002": {
+    "name": "Light Orange",
+    "rgb": [235, 160, 65]
+  },
+
+  "Y001": {
+    "name": "Yellow",
+    "rgb": [242, 205, 55]
+  },
+  "Y002": {
+    "name": "Golden Yellow",
+    "rgb": [210, 165, 30]
+  },
+
+  "GN001": {
+    "name": "Muted Green",
+    "rgb": [90, 120, 75]
+  },
+  "GN002": {
+    "name": "Green",
+    "rgb": [45, 125, 65]
+  },
+
+  "BL001": {
+    "name": "Light Blue",
+    "rgb": [100, 155, 185]
+  },
+  "BL002": {
+    "name": "Blue",
+    "rgb": [45, 95, 155]
+  },
+  "BL003": {
+    "name": "Dark Blue",
+    "rgb": [30, 55, 100]
+  },
+
+  "PU001": {
+    "name": "Purple",
+    "rgb": [125, 75, 135]
+  }
 }
